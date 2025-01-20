@@ -458,3 +458,11 @@ A detailed guide to essential Linux commands, including their purposes and examp
   ```bash
   $ uptime
   ```
+
+---
+
+## Additionally
+
+Thank you for going through this guide! If you're looking for more detailed explanations and examples, visit [TutorialWorks - Linux Commands](https://www.tutorialworks.com/linux-commands), implement these commands.
+
+Happy learning!
